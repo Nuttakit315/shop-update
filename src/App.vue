@@ -4,7 +4,6 @@
     <p class="h3 my-0 me-md-auto fw-normal">Nusyet-SHOP</p>
     <a class="btn btn-outline-primary" >จำนวน {{product1.amount+product2.amount+product3.amount+product4.amount+product5.amount+product6.amount}} กล่อง </a>
   </header>
-  
   <main class="container">
     <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
     <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
@@ -134,7 +133,7 @@
   </div>
   </main>
   </div>
-</template>
+</template> 
 
 <script>
 export default {
